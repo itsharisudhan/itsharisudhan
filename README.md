@@ -16,7 +16,6 @@
 
 ```javascript
 const hariSudhan = {
-  pronouns: "he" | "his",
   code: [Javascript, Python, HTML, CSS, Java, C ],
   tools: [flutter, Node, Linux  ],
  
